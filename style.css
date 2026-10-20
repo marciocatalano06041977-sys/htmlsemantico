@@ -1,0 +1,40 @@
+
+
+body {
+    background-color: lightblue;
+}
+
+header {
+    background-color: #e01d1d;
+}
+
+nav {
+    background-color: #52eb52;
+}
+
+aside {
+    background-color: #ee8695;
+}
+
+main {
+    background-color: #74c3f5;
+}
+article {
+    background-color: #74c3f5;
+}
+
+figure {
+    background-color: #f3c384;
+}
+
+p {
+    background-color: #f5f5be;
+}
+
+section {
+    background-color: #0909f5;
+}
+
+footer {
+    background-color: #871ceb;
+}
